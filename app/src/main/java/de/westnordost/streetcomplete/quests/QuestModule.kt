@@ -79,6 +79,7 @@ import de.westnordost.streetcomplete.quests.place_name.AddPlaceName
 import de.westnordost.streetcomplete.quests.playground_access.AddPlaygroundAccess
 import de.westnordost.streetcomplete.quests.postbox_collection_times.AddPostboxCollectionTimes
 import de.westnordost.streetcomplete.quests.postbox_ref.AddPostboxRef
+import de.westnordost.streetcomplete.quests.traffic_signals_ref.AddTrafficSignalsRef
 import de.westnordost.streetcomplete.quests.postbox_royal_cypher.AddPostboxRoyalCypher
 import de.westnordost.streetcomplete.quests.police_type.AddPoliceType
 import de.westnordost.streetcomplete.quests.powerpoles_material.AddPowerPolesMaterial
@@ -242,6 +243,7 @@ import javax.inject.Singleton
         AddFireHydrantType(),
         AddParkingType(),
         AddPostboxRef(),
+        AddTrafficSignalsRef(),
         AddWheelchairAccessToiletsPart(),
         AddBoardType(),
         AddPoliceType(),

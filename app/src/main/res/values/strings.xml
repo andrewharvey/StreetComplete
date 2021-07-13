@@ -588,6 +588,7 @@ Otherwise, you can download another keyboard in the app store. Popular keyboards
     <string name="quest_postboxCollectionTimes_name_title">What are the collection times of this %s postbox?</string>
     <string name="quest_postboxRef_title">What is the reference number of this postbox?</string>
     <string name="quest_postboxRef_name_title">What is the reference number of this %s postbox?</string>
+    <string name="quest_trafficSignalsRef_title">What is the reference number of these traffic signals?</string>
     <string name="quest_ref_answer_noRef">"No reference number visible…"</string>
     <string name="quest_collectionTimes_add_times">Add collection time</string>
     <string name="quest_collectionTimes_answer_no_times_specified">No times specified</string>
